@@ -1,0 +1,68 @@
+body {
+margin: 0;    
+background-image: url("https://www.prensalibresn.com/wp-content/uploads/2018/01/fruta-prohibida-portada.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+font-family: 'Satisfy', cursive;
+
+}
+
+h1{
+text-align:center;
+color: #f9fafa;
+font-size: 50px;
+}
+
+h2{
+    text-align:center ;
+    color: #f9fafa;
+    font-size: 30px;
+}
+
+h3{
+    color: rgb(238, 236, 228);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+p{
+
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+
+button{
+color: seashell;
+font-size: 20px;
+letter-spacing: 4px;
+font-family: 'Satisfy', cursive;
+border-radius: 10px;
+display: inline-block;
+padding: 15px 30px;
+text-decoration: none;
+background-color: #a945c7;
+text-shadow: 0 1px 0 rgba(255.255.255.0.3);
+box-shadow: 0 1px, 1px rgba(0,0,0,0.3);
+}
+
+button{
+box-shadow: 0 0 10px #a945c7, 0 0 40px #a945c7, 0 0 80px #a945c7;
+
+    
+}
+
+button:hover{
+    background: rgb(12, 8, 0);
+    cursor: pointer;
+    
+  }
+
+
+
+
